@@ -1,5 +1,0 @@
-# Python (already on most machines)
-python -m http.server 8000        # Windows alternative: py -m http.server 8000
-
-# or Node.js
-npx serve .
